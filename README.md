@@ -1,1 +1,7 @@
 # wt_imp_que
+
+The following materials are provided as a friendly gesture to offer hints and guidance regarding potential answers. It is imperative to acknowledge that these materials do not guarantee the accuracy of answers nor assure that examination questions will be derived from this source. Students are expected to exercise their critical thinking skills and logical reasoning to formulate responses during examinations.
+It is important to emphasize that these materials serve merely as basic information and are not intended to be considered as exhaustive or comprehensive study resources. No claims can be made regarding the origin of examination questions or the marks obtained based solely on the utilization of this material.
+Students are hereby reminded to prepare thoroughly by covering the entirety of the syllabus and not rely solely on the provided question bank. It is imperative to understand that academic success depends on comprehensive preparation and the demonstration of understanding across all relevant topics.
+Furthermore, it is crucial to adhere to all academic integrity policies and guidelines established by educational institutions. Any attempts to attribute academic success solely to the utilization of provided materials will not be entertained.
+By utilizing these materials, students acknowledge their responsibility to engage in diligent study practices and to approach examinations with integrity and academic honesty.
